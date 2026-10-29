@@ -5,8 +5,8 @@
 **A website I am designing and building for BDM To You, an Australia-wide outsourced Business Development Manager service for small and medium businesses.**
 
 <p>
-<picture><img alt="Client project" src="https://img.shields.io/badge/type-client%20project-b08d57?style=flat-square" height="28"></picture>
-<picture><img alt="Status: in progress" src="https://img.shields.io/badge/status-in%20progress-orange?style=flat-square" height="28"></picture>
+<picture><img alt="Client Project" src="https://img.shields.io/badge/Type-Client%20Project-b08d57?style=flat-square" height="28"></picture>
+<picture><img alt="Status: In Progress" src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" height="28"></picture>
 </p>
 
 <p>
@@ -59,26 +59,26 @@ I am responsible for the whole build: **design, development, content structure, 
 ### Home
 ![Home](screenshots/01-home.jpg)
 
-### Two proven ways to win new business
-![Two strengths](screenshots/02-two-strengths.jpg)
-
-### Helping businesses in every state
-![Australia-wide map](screenshots/03-australia-wide.jpg)
-
 ### Services
-![Services](screenshots/04-services.jpg)
-
-### A simple, effective process
-![Process](screenshots/05-process.jpg)
+![Services](screenshots/02-services.jpg)
 
 ### About: meet Robert
-![About](screenshots/06-about.jpg)
+![About](screenshots/03-about.jpg)
 
-### Packages & testimonials
-![Results](screenshots/07-results.jpg)
+### Helping businesses in every state
+![Australia-wide map](screenshots/04-australia-wide.jpg)
 
 ### Mobile
-![Mobile views](screenshots/08-mobile.jpg)
+![Mobile views](screenshots/05-mobile.jpg)
+
+### Two proven ways to win new business
+![Two strengths](screenshots/06-two-strengths.jpg)
+
+### A simple, effective process
+![Process](screenshots/07-process.jpg)
+
+### Packages & testimonials
+![Results](screenshots/08-results.jpg)
 
 ---
 
